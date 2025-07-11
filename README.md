@@ -1,2 +1,2 @@
-# karin-rosental-10.7
+# karin-rosental
 homework solutions
